@@ -1,0 +1,29 @@
+* [33mcommit f71bd2178191c140b18f07d842889562d41b4c65[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mayush[m[33m)[m
+[31m|[m Author: Your Name <you@example.com>
+[31m|[m Date:   Sun Apr 7 20:59:24 2024 +0530
+[31m|[m 
+[31m|[m     i have added exception handling
+[31m|[m 
+* [33mcommit b7443eebe37df4fcca6c89dbfaa443f888345bc5[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+[31m|[m Author: siddharth00001 <50843321+siddharth00001@users.noreply.github.com>
+[31m|[m Date:   Sat Mar 16 17:30:33 2024 +0000
+[31m|[m 
+[31m|[m     Create test.py
+[31m|[m 
+* [33mcommit 382004c6c075cb2931e7f93b250572e8cf0436df[m
+[31m|[m Author: siddharth chamoli <siddharthchamoli@siddharths-MacBook-Air.local>
+[31m|[m Date:   Sat Mar 16 17:29:17 2024 +0000
+[31m|[m 
+[31m|[m     new gitignore created
+[31m|[m 
+* [33mcommit af9f1517910803d5d13c4c874f31d1b8048812ed[m
+[31m|[m Author: siddharth chamoli <siddharthchamoli@siddharths-MacBook-Air.local>
+[31m|[m Date:   Sat Mar 16 17:25:44 2024 +0000
+[31m|[m 
+[31m|[m     Adding fast api code
+[31m|[m 
+* [33mcommit 2d7434b3801d9da9a5f813ef981333e502a7c155[m
+  Author: siddharth chamoli <siddharthchamoli@siddharths-MacBook-Air.local>
+  Date:   Sat Mar 16 17:24:24 2024 +0000
+  
+      Adding fast api code
