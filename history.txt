@@ -1,0 +1,12 @@
+ git clone https://github.com/Ayushgautam2007/FAST_PROJECT.git
+ got clone https://github.com/Ayushgautam2007/FAST_PROJECT.git
+git clone https://github.com/Ayushgautam2007/FAST_PROJECT.git
+cd FAST_PROJECT
+git branch -a
+git checkout -b ayush
+ls
+dir
+code .
+git status
+git restore main.py
+doskey /history > history.txt
